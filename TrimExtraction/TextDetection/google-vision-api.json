@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pioneering-flag-237700",
+  "private_key_id": "b6fc371e39d992b8d26b8d14b8469fb7cd43982d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzffCqQsAmLzJi\nukVQsu27+wEjUYOSsi6r43/NbcGVwc3z9JJmzRPEX1MHdb7iJ6kWnQ6C58JFGIko\n0HqAVCoTfhfvZNgNLd17rIHm4zGlnyVt64L1M0E34TMePfFlg+uTfkpJjAuGbzpL\nPJnj0o2DGA0P8LoT2fh6rPl+vQeNTparEDJbNppdkTi8Dw+CrFkkvxd2Mx3VmJ1m\nS8UjxvhwwpvXDOcWlzz3y4q+18wMceldbZQSSMWRnxTTpA9z4RMFexE3tALCLSe5\nrbL8K53LxPsd5hGsk9A+/1RScueC6Y5umjflnV7uX0fvMVUuhB2dndnnGyScrTZa\nV0rPArHxAgMBAAECggEAF+eivQZBUYSRJRFySFZgL5w1EVdamte0vAtDOuCOeuuy\nCnbM5biT1KAubmyp1LRcAmk95MTJfIrRP5iObBdpeCmftfAcDxtH51/49/9Tnh91\nLG/Eg/QE0FSjinhM9UxtvDnCWou2gDvBi4Iha7RfyPET0kbo/VpXC72MR+sUfabb\natWGLutboHhsLhoNVTatrB9ckFkzX4X+lC1PH0U5KO6Np8Adj5db7bKCg/+xMfzc\nQQTk8Mp+HonvbZKaw6U6lknT9rY8biR195MTkLSm54LkYScJySOzqIDhP9hODY4/\nL/uqI6WuABtCrv1VFiD8Uy9ntmb96+mcKBUe6NpOvQKBgQD14Lro0WVImWB7o2an\np7fl4cple0/k5x5gp2VmQY8E0uiLH72UlP+QphDFGX/CvqwOJiJ0R4v+F3ZqO+wa\nDZ/w+Xsu9TOfbU0MdM2qgFxZxnBKUFUtYy9H+F6Oa1DSPc8DrnPrxc33/dVtZy9G\nICDp6S4XFw60HMwoHZWNBCL35QKBgQC64ZQ1AGt6DmTajsF8G3OKaodGJjcIqZIH\nPh9Mf6yTyJCVaTQNBkxyw8RBC2JmGUreSraCkBJrEmq394gVAohPaaGBysU4slEa\nypjND1zcUdReF0g6deMCajRJ2Eafvb55pPjpsNhhTqLkmyy9OBt9yZsqRdMiOk6s\ntZLk6YZZHQKBgBWnsU6IAq+eMo0xGv1xHBU3Caheb+7tHBPPKnMTGxGFsc1vAjdv\n2AJZXei+Ei6ItIaafTZYhs/eKSO6G1VAFfIXRu4f0mgcLEkIkISPwZJ2k7U31gil\nT6i7Czjn4rphjzX3y2XcigNpa76y88rtUXjIfLKz6Subza9Ky70bvCixAoGBAKfY\n33JTNDTmJLMgMKu1RCr3zxO0Uw2Wr6+NnjLpISmCpEltufBQzezt46DABtrIsLPC\nyvWtTL2aRvuAeVrVcXRR3VtjsYtgrPOxL1hOCgtf+6ueoaLQKtoKZXhFpfjnROKg\nx2etDEspg6hrrt0sPZTWtGRdXmqJkAwS8SJkk+QJAoGBAPKxhYGeE/KlYeCl81ul\nCDlYQCHtULdHnwmh2HjldyqsYOpOp9JZYdf8c1RhdAM5NZcYIb3e/dqQ+XoM24PX\nrk+ZTPvO85ehzsy+jEEsKAFvu3F0BMkJpt+u++27F0Bpj+4hFr6AKqiUXCKM9U3w\n58sFqDGlNCsXBcInKwUoP3fv\n-----END PRIVATE KEY-----\n",
+  "client_email": "trimextraction@pioneering-flag-237700.iam.gserviceaccount.com",
+  "client_id": "115731327526194490321",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trimextraction%40pioneering-flag-237700.iam.gserviceaccount.com"
+}
