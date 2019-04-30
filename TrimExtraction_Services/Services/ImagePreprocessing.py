@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 from scipy import ndimage
-from TrimExtraction.Logging import logger
+from TrimExtraction_Services.Logging import logger
 
 
 def masking(img):

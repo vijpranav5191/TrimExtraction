@@ -1,4 +1,4 @@
-from TrimExtraction.DynamoDB import dynamoDB
+from TrimExtraction_Services.DynamoDB import dynamoDB
 from datetime import datetime
 import uuid
 

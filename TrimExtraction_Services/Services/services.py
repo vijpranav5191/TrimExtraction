@@ -1,9 +1,9 @@
 import cv2
 import numpy
-from TrimExtraction.DynamoDB import dynamoDB
-from TrimExtraction.Services import ImagePreprocessing as ip
-from TrimExtraction.Logging import logger
-from TrimExtraction.TextDetection import googleVision as gv
+from TrimExtraction_Services.DynamoDB import dynamoDB
+from TrimExtraction_Services.Services import ImagePreprocessing as ip
+from TrimExtraction_Services.Logging import logger
+from TrimExtraction_Services.TextDetection import googleVision as gv
 import json
 
 def process_image(inputImg, imageId, imageName):

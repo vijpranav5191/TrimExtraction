@@ -7,8 +7,8 @@ from django.http import JsonResponse, HttpRequest
 from django.core import serializers
 from django.conf import settings
 import json
-from TrimExtraction.Services import services
-from TrimExtraction.Logging import logger
+from TrimExtraction_Services.Services import services
+from TrimExtraction_Services.Logging import logger
 
 
 # Create your views here.

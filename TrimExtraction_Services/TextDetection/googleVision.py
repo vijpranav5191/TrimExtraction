@@ -5,7 +5,7 @@ import io
 import json
 from google.cloud import vision
 import cv2
-from TrimExtraction.Logging import logger
+from TrimExtraction_Services.Logging import logger
 
 
 print(os.pardir)
