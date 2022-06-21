@@ -16,7 +16,7 @@ grpcio==1.19.0
 httplib2==0.12.1
 idna==2.8
 jmespath==0.9.4
-numpy==1.16.2
+numpy==1.22.0
 opencv-python==4.0.0.21
 protobuf==3.7.1
 pyasn1==0.4.5
